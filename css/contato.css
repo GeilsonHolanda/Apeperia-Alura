@@ -2,9 +2,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-
     text-align: center;
-
     padding-top: 2rem;
     padding-bottom: 2rem;
 }
@@ -22,8 +20,6 @@
 
 .contato__botao {
     color: var(--cinza-escuro);
-
     border-color: var(--cinza-escuro);
-
     margin-top: 1rem;
 }
